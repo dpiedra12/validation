@@ -1,3 +1,4 @@
 #!/bin/bash
-chmod -R 754 hello
-ls -l
+touch hello
+chmod 754 hello
+
